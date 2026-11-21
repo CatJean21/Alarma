@@ -43,3 +43,5 @@ Alarma/
    ```bash
    python main.py
    ```
+
+   ni idea de que hago
